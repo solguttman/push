@@ -1,0 +1,8 @@
+{
+  "name": "push",
+  "app_id": "713e7b17",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
